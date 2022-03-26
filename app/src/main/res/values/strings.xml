@@ -6,4 +6,5 @@
     <string name="str_monkey_noHear">Choose monkey no hear</string>
     <string name="str_monkey_noSee">Choose monkey no see</string>
     <string name="str_monkey_noSay">Choose monkey no say</string>
+    <string name="str_btn_exit">Exit</string>
 </resources>

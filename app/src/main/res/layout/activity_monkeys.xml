@@ -19,7 +19,7 @@
             android:layout_weight="1"
             android:background="@color/white"
             android:contentDescription="@string/str_monkeys"
-            app:srcCompat="@drawable/nosay" />
+            app:srcCompat="@drawable/imgnosay" />
 
         <ImageButton
             android:id="@+id/imageNoSee"
@@ -28,7 +28,7 @@
             android:layout_weight="1"
             android:background="@color/white"
             android:contentDescription="@string/str_monkeys"
-            app:srcCompat="@drawable/nosee" />
+            app:srcCompat="@drawable/imgnosee" />
 
         <ImageButton
             android:id="@+id/imageNoHear"
@@ -37,6 +37,6 @@
             android:layout_weight="1"
             android:background="@color/white"
             android:contentDescription="@string/str_monkeys"
-            app:srcCompat="@drawable/nohear" />
+            app:srcCompat="@drawable/imgnohear" />
     </LinearLayout>
 </androidx.constraintlayout.widget.ConstraintLayout>
